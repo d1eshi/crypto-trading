@@ -4,7 +4,7 @@ Hi, this is a project realized in course [JavaScript Moderno Guía Definitiva Co
 
 ## Technologies
 
-I have used basic **HTML**, **CSS** and **Javascript**. Most of the styles are made in **Bootstrap**.
+I have used basic **HTML**, **CSS** and **Javascript**. Most of the styles are made in **Skeleton**.
 
 ### JavaScript
 
